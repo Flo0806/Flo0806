@@ -19,6 +19,7 @@ I'm always happy to chat about web development, open source, or just say hi.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/florian-heuberger)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/flo-heuberger.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/flo.0806)
 
 ---
 *Building for the web, one commit at a time.*
