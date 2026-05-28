@@ -22,4 +22,9 @@ I'm always happy to chat about web development, open source, or just say hi.
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/flo.0806)
 
 ---
+## https://npmx.dev
+
+[![Flo0806 npmxer profile](https://npmxers.trueberryless.org/_og/r/Flo0806.png)](https://npmxers.trueberryless.org/Flo0806)
+
+---
 *Building for the web, one commit at a time.*
